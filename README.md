@@ -82,13 +82,4 @@ appear instantly on the "Security Dashboard" tab.
 
 WebSocket events: `new_incident`, `incident_updated`, `broadcast_alert`.
 
-## Possible next steps
 
-- Add authentication so only verified students/security can use the app
-- Show incidents on a live map instead of raw coordinates
-- Add SMS/email fallback notifications for security staff
-- Deploy the backend against the MySQL schema for production use
-
-## License
-
-MIT — feel free to use this as a learning project.
